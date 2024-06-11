@@ -8,6 +8,5 @@
 4. Install the remaining required packages with the command `conda env create -f environment.yml` >>> This will create a new conda environment AND install the required packages for the test
 5. Open VS Code (or other terminal) if you haven't already
 6. Activate your new envrionment by running `conda activate ai_summit` in the terminal. Ensure that you can see the environment selected in the bottom right of the screen in VS Code. If not, click the environment currently activated and manually switch it to the new environment you've created
-7. Take you Open AI API key and copy and paste it into the .env file (replace the current default value)
-8. Open the "OpenAI_test.ipynb" file and run the whole notebook
-9. The connection works...happy building
+7. Take you Open AI API key and copy and paste it into the .env file (replace the current "xxxxxxxx" string)
+8. 
