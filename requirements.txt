@@ -1,5 +1,5 @@
 # Plotting packages
-matplotlib==3.9.0
+matplotlib==3.8.4
 seaborn==0.13.2
 
 # Data wrangling packages
