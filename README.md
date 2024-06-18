@@ -56,12 +56,10 @@ If you have issues using the environment.yml file to creaet your conda environme
 
 # Useful Resources
 
-Resources
 ## Streamlit
 
 Tutorials for Streamlit: https://docs.streamlit.io/get-started 
 Sample Streamlit Apps: https://streamlit.io/gallery 
-
 
 ## OpenAI
 Link	Description
@@ -74,8 +72,6 @@ GitLab Documentation and Tutorials: https://docs.gitlab.com/ee/tutorials/
 Introductory worksheet for GitLab: https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners 
 DataCamp’s Git cheat sheet: https://www.datacamp.com/cheat-sheet/git-cheat-sheet
 DataCamp's introduction to Git Course: https://www.datacamp.com/courses/introduction-to-git
-
-
  
 # Prompt Engineering
 OpenAI’s prompt engineering practices: https://platform.openai.com/docs/guides/prompt-engineering/six-strategies-for-getting-better-results 
