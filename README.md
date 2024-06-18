@@ -57,34 +57,27 @@ If you have issues using the environment.yml file to creaet your conda environme
 # Useful Resources
 
 ## Streamlit
-
-Tutorials for Streamlit: https://docs.streamlit.io/get-started 
-Sample Streamlit Apps: https://streamlit.io/gallery 
+* Tutorials for Streamlit: https://docs.streamlit.io/get-started 
+* Sample Streamlit Apps: https://streamlit.io/gallery 
 
 ## OpenAI
-Link	Description
-Free web chat interface for ChatGPT: https://chatgpt.com/ 
-OpenAI Playground (allows you to use ChatGPT and adjust parameters such as Temperature, Top-P etc): https://platform.openai.com/playground/
-OpenAI Documentation, including how to use API Endpoints: https://platform.openai.com/docs/overview
+* Free web chat interface for ChatGPT: https://chatgpt.com
+* OpenAI Playground (allows you to use ChatGPT and adjust parameters such as Temperature, Top-P etc): https://platform.openai.com/playground
+* OpenAI Documentation, including how to use API Endpoints: https://platform.openai.com/docs/overview
 
 ## GitLab Version Control
-GitLab Documentation and Tutorials: https://docs.gitlab.com/ee/tutorials/ 
-Introductory worksheet for GitLab: https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners 
-DataCamp’s Git cheat sheet: https://www.datacamp.com/cheat-sheet/git-cheat-sheet
-DataCamp's introduction to Git Course: https://www.datacamp.com/courses/introduction-to-git
- 
-# Prompt Engineering
-OpenAI’s prompt engineering practices: https://platform.openai.com/docs/guides/prompt-engineering/six-strategies-for-getting-better-results 
-Short courses on using ChatGPT and LangChain: https://learn.deeplearning.ai/ 
-Prompt engineering course: https://app.datacamp.com/learn/courses/chatgpt-prompt-engineering-for-developers 
-LangChain course: https://app.datacamp.com/learn/courses/developing-llm-applications-with-langchain
+* GitLab Documentation and Tutorials: https://docs.gitlab.com/ee/tutorials
+* Introductory worksheet for GitLab: https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners
+* DataCamp’s Git cheat sheet: https://www.datacamp.com/cheat-sheet/git-cheat-sheet
+* DataCamp's introduction to Git Course: https://www.datacamp.com/courses/introduction-to-git
 
+## Prompt Engineering
+* OpenAI’s prompt engineering practices: https://platform.openai.com/docs/guides/prompt-engineering/six-strategies-for-getting-better-results
+* Short courses on using ChatGPT, Prompt Engineering and LangChain: https://learn.deeplearning.ai
+* Prompt engineering course: https://app.datacamp.com/learn/courses/chatgpt-prompt-engineering-for-developers
+* LangChain course: https://app.datacamp.com/learn/courses/developing-llm-applications-with-langchain
 
-
-Fine-tuning
-Link	Description
-https://www.datacamp.com/tutorial/fine-tuning-large-language-models
-Worksheet for fine-tuning LLMs
-https://www.deeplearning.ai/short-courses/finetuning-large-language-models/ 
-Short course on fine tuning LLMs
+## Fine-tuning
+* Worksheet for fine-tuning LLMs: https://www.datacamp.com/tutorial/fine-tuning-large-language-models
+* Short course on fine tuning LLMs: https://www.deeplearning.ai/short-courses/finetuning-large-language-models
 
