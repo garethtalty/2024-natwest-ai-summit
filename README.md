@@ -22,8 +22,8 @@ eval "$(pyenv virtualenv-init -)"
 11. Install the requirements for the repo by running `pip install -r requirements.txt`. 
 
 **For Miniconda**
-1. Install miniconda from https://docs.anaconda.com/free/miniconda/ (be sure to download the correct version for your operating system). If you have minconda already, ensure it is up to date by running `conda update -n base -c defaults conda`. This should cause `(base)` to appear behind your file location on CLI, meaning conda has been installed and is active.
-2. For the following steps you will need to open a command line interface (CLI). This will differ depending on your operating system:
+6. Install miniconda from https://docs.anaconda.com/free/miniconda/ (be sure to download the correct version for your operating system). If you have minconda already, ensure it is up to date by running `conda update -n base -c defaults conda`. This should cause `(base)` to appear behind your file location on CLI, meaning conda has been installed and is active.
+7. For the following steps you will need to open a command line interface (CLI). This will differ depending on your operating system:
    * Windows: Powershell (4.0)
    * MacOS & Linux: Terminal
 
@@ -31,7 +31,7 @@ Note that your CLI can also be opened via most IDE's. including VS Code.
 
 8. Install the remaining required packages by running the following command in your CLI `conda env create -f environment.yml` >>> This will create a new conda environment AND install the required packages to run this repo.
 9. Open VS Code (or other IDE) if you haven't already.
-10. Activate your new envrionment by running `conda activate ai_summit` in your CLI. If using VS Code, you shouyld be able to see the environment selected in the bottom right of the screen in VS Code. If not, click the environment currently activated and manually switch it to the new environment you've created.
+10. Activate your new envrionment by running `conda activate ai_summit_env` in your CLI. If using VS Code, you shouyld be able to see the environment selected in the bottom right of the screen in VS Code. If not, click the environment currently activated and manually switch it to the new environment you've created.
 
 Once you have your environment setup, you should now test the OpenAI Connection:
 
